@@ -1,0 +1,8 @@
+{
+  "name": "Horary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "341644b4"
+}
